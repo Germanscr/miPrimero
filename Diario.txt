@@ -1,0 +1,23 @@
+Dia 01: 07:06 p.m. 02/10/2018
+	- Full Stack (Front y Back)
+	- Null es un valor y significa NADA y Undefined significa que no esta definido (osea que ni siquiera tiene como valor null.
+	- Fibonacci 1 1 2 3 5 8 13 21
+
+Dia 02: 07:22 p.m. 03/10/2018
+	- Revisamos ejercicio01
+	- 5 objetos y darle atrib y metodos 
+		| 1 Computadora >> atrib (color, precio, marca) , metodos(prenderse, ejecutarprograma, dormirse)
+		| 2 Camara >> atrib (lente, memoria, Mpx) , metodos(disparador, flash, tomavideo)
+		| 3 Bici >> atrib (tipo, rin, color) , metodos(cambio, campana, frenar)
+		| 4 Estufa >> atrib (tieneHorno, parillas) ,  metodos(encender, temporizador) 
+		| 5 Cafetera >> atrib (marca, color, tipo)  , metodos(programarTiempo, calentar, molerCafe)  
+	- Iniciamos ejercicio02
+Dia 03:
+	- Liskov
+
+Dia 04:  08:12 p.m. 05/10/2018
+	- Arrow functions
+	- Listas
+Dia 05: 07:42 p.m. 08/10/2018
+	- Revisamos los problemas de listas (no los hice jiji)
+	- 
